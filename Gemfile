@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'bunny',                            '~> 2.9', require: false
 gem 'email_validator',                  '~> 1.6'
 gem 'figaro',                           '~> 1.1'
-gem 'grape',                            '~> 1.0'
+gem 'grape',                            '~> 1.1'
 gem 'grape-swagger',                    '~> 0.29'
 gem 'grape-entity',                     '~> 0.7.1'
 gem 'grape_logging',                    '~> 1.8'
